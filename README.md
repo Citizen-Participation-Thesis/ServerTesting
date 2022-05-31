@@ -1,7 +1,7 @@
 # ServerTesting
  Simple project for testing the server application
 
-See the [Assets/ItemSpawner.cs](ItemSpawner) script for sample networking functionality.
+See the [ItemSpawner](Assets/ItemSpawner.cs) script for sample networking functionality.
 
 If testing with a running backend system, ensure:
 1. IP has been set correctly (localhost if testing on windows / in editor, local IPv4 if on the same network)
